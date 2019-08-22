@@ -7,3 +7,4 @@ This package provides syntax highlighting for the advanced search syntax, making
 Example:
 
 ![](https://raw.githubusercontent.com/Syncrossus/Scopus-Syntax-Highlighter/master/scopus_syntax_demo.png)
+[![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)](http://www.wtfpl.net/)
