@@ -6,6 +6,6 @@ This package provides syntax highlighting for the advanced search syntax, making
 
 Example:
 
-![](https://raw.githubusercontent.com/Syncrossus/Scopus-Syntax-Highlighter/master/scopus_syntax_demo.png)
+![](https://user-images.githubusercontent.com/12431317/64167519-cbe18600-ce49-11e9-8860-8c7b6fd54fa1.png)
 
 [![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-2.png)](http://www.wtfpl.net/)
